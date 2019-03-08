@@ -1,0 +1,4 @@
+ Data Set Size n,,,,Iterative,,,,Recursive 
+,Average Critical Operation Count,  Coefficient of Variation Count,  Average Execution Time,  Coefficient of Variance of Time (end of iterative row),  Average Critical Operation Count,  Coefficient of Variation Count,  Average Execution Time,  Coefficient of Variance of Time, 
+10,587,201,4990,5015,229,75,3032,5263,
+20,1750,1178,34975,3135560,764,358,2285,5278,
